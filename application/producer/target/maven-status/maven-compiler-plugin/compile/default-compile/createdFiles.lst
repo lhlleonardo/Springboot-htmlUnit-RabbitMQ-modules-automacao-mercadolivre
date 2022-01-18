@@ -1,0 +1,9 @@
+org\treinamento\producer\config\DriverConfig.class
+org\treinamento\producer\ProducerApplication.class
+org\treinamento\producer\config\RabbitMQConfig.class
+org\treinamento\producer\message\Mensagem.class
+org\treinamento\producer\pages\MeLiResults.class
+org\treinamento\producer\service\DemandaService.class
+org\treinamento\producer\message\MensagemProducer.class
+org\treinamento\producer\service\MeLiService.class
+org\treinamento\producer\pages\MeLiHome.class

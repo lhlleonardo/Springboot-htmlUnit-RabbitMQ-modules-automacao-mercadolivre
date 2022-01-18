@@ -1,0 +1,4 @@
+org\treinamento\consumer\config\RabbitMQConfig.class
+org\treinamento\consumer\ConsumerApplication.class
+org\treinamento\consumer\message\MensagemListener.class
+org\treinamento\consumer\message\Mensagem.class

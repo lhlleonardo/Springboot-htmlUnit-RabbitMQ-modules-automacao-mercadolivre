@@ -1,0 +1,10 @@
+version: "3.0"
+
+services:
+  springboot:
+    build: .
+    container_name: producer
+    ports:
+      - 8080:8080
+    command:
+      java -Djava.security.egd=file:/dev/./urandom -jar producer-1.0-SNAPSHOT.jar
